@@ -4,6 +4,7 @@ public class A{
 	int a0=1;
 	void a1(){
 		System.out.println("my name is:"+a0);
+		System.out.println("");
 	}
 	
 	public class B{
